@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115932571708",
+    "project_id": "tutorial9-8b67c",
+    "storage_bucket": "tutorial9-8b67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115932571708:android:32f428a949c989952e3b39",
+        "android_client_info": {
+          "package_name": "com.kelbowety.tutorial9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115932571708-6d6b2hllje3jbpo9bqah02apik5nmdlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelbowety.tutorial9",
+            "certificate_hash": "122e8634114c5d0baa4f25c0f2c102b5fb981d4d"
+          }
+        },
+        {
+          "client_id": "115932571708-uf481jls6jq52f0ksr55kopg8elg6jtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJVvXWJJSGCNR3KnEFwV0puXESd8UV9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115932571708-uf481jls6jq52f0ksr55kopg8elg6jtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
